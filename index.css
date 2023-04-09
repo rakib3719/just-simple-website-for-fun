@@ -1,0 +1,379 @@
+.logo{
+
+    height: 60px;
+}
+body{
+
+    background-color: black;
+
+    font-family: 'Dancing Script', cursive;
+font-family: 'Jost', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+
+header{
+
+  background-color: black;
+position: fixed;
+width: 100%;
+z-index: 1;
+
+   
+}
+header{
+
+    position: fixed;
+}
+
+.nav-link{
+color: white;
+
+}
+.nav-link:hover{
+
+    color: #5758e0 !important;
+   
+}
+
+.menu li,
+li{
+    padding:0  20px;
+
+
+}
+
+.menu{
+    margin-left: 20px;
+}
+.icn{
+
+    margin-top: 12px;
+}
+
+.menu-btn {
+
+    color: white;
+
+    border-color: #5758e0;
+    margin-left: 20px;
+
+
+
+}
+
+.navbar-toggler {
+	
+
+	background-color: #129cd3d6 !important;
+	
+}
+
+.menu-btn:hover{
+
+    background-image: linear-gradient(70deg,#5758e0,#15829a);
+    color: white !important;
+    
+    transition: 1s;
+}
+
+.banner{
+background: url(./img/168086324632363174.gif) no-repeat center center;
+background-size: cover;
+padding: 200px;  
+
+
+
+}
+
+
+
+    .banner-text{
+text-align: center;
+    }
+    .banner-text h1{
+color: #5758e0;
+font-weight: 900;
+font-size: 4rem;
+margin-bottom: 20px;
+    }
+
+    .banner-text p{
+        color: rgb(207, 207, 207);
+margin-bottom: 40px;
+    }
+
+    .s-btn{
+margin-top: 20px;
+        background-color:#5758e0 !important ;
+    }
+.black{
+
+    background-color: black;
+}
+.box{}
+.box-item {
+	box-shadow: 0px 0px 1px -1px #8b8080;
+	background-color: #121111;
+	padding: 24px 22px;
+    margin-top: 12%;
+    text-align: center;
+    transition: 0.6s;
+}
+.box-item h1 {
+	color: white;
+	font-size: 30px;
+	font-weight: 700;
+}
+.box-item p {
+	color: #a59a9a;
+  
+}
+.icon {
+	display: flex;
+	justify-content: center;
+	color: white;
+	font-size: 42px;
+	color: #5758e0;
+	margin-bottom: 22px;
+}
+
+.box-item:hover{
+
+background-image: linear-gradient(to left, #55b4d4, #5758e0);
+
+transform: translateY(-18px);
+z-index: -1;
+
+}
+.box-item:hover p{
+
+    color: white;
+}
+.box-item:hover .icon{
+
+    color: white;
+}
+img{
+
+    max-width: 100%;
+}
+
+.same-black{
+    background-color: #212020;
+    margin-top: 50px;
+}
+
+.about-up{
+height: 3px;
+width: 100px;
+background-image: linear-gradient(to left, #55b4d4, #5758e0);
+
+
+}
+.about-text p{}
+.about-text h1{
+
+    color: white;
+}
+.about-text{
+
+    margin-left: 2%;
+}
+
+.about-img{
+
+    margin-bottom: 50px;
+}
+
+.prof {
+	margin-top: 42px;
+}
+.prof-icon {
+	color: #5758e0;
+	font-size: 37px;
+	padding: 3px;
+}
+.prof h1 {
+	color: white;
+	font-size: 23px;
+}
+
+.white{
+
+    color: white;
+}
+
+.same-about{
+    margin-top: 50px;
+}
+.same-about-text{
+margin-bottom: 20px;
+}
+
+.accordion {
+	
+	--bs-accordion-bg: #212020}
+	.ac-text{
+
+        color: white;
+    }
+
+
+   
+
+    
+    .port-item-after p{}
+
+    .port-img {
+      margin-bottom: 50px;
+    }
+
+    .portfolio{
+
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .bold{
+
+        font-weight: bold;
+    }
+
+    .vd{
+
+        text-align: center;
+    }
+
+    .customer {
+
+        margin-top: 50px;
+    }
+
+    .csss{
+
+    }
+    .customer-item {
+ 
+        padding: 46px 47px;
+    transition: .5s;
+    text-align: center;
+    margin-left: 5%;
+   
+    }
+    .cus-img{
+
+        width: 72px;
+        border-radius: 50%;
+    }
+
+    .cus-icon{
+
+        color:#5758e0 ;
+    }
+
+
+    .customer-img{
+
+        text-align: center;
+    }
+    .customer-item:hover p{
+
+        color: white !important;
+    }
+
+    .customer-item:hover .cus-icon{
+
+        color: white ;
+    }
+
+    .customer-item-2{
+
+
+    }
+    .up-lets{
+        height: 5px !important;
+    }
+
+    .form-control:focus{
+
+    background-color: black;
+    color: white;
+   
+    }
+    .form-control{
+
+        margin-top: 20px;
+    }
+    .f-btn {
+        padding: 8px 46px;
+        margin-left: -1px;
+    }
+
+
+    .img-gol {
+        position: relative;
+        left: 323px;
+        top: -128px;
+        height: 100px;
+        width: 100px;
+        border-radius: 50px;
+        background-image: linear-gradient(to left, #55b4d4, #5758e0);
+    }
+
+    .img-halka {
+        height: 300px;
+        width: 300px;
+        border-radius: 150px;
+        background-color: #5758e0;
+        overflow: hidden;
+        opacity: .3;
+        position: relative;
+        top: -274px;
+        left: 256px;
+    }
+    
+    .gol-icon {
+        font-size: 42px;
+        position: relative;
+        left: 38px;
+        top: 29px;
+    }
+
+    .halka{
+
+        height: 200px;
+        width: 200px;
+    }
+
+    .kow {
+        height: 200px;
+        width: 297px;
+        background-color: black;
+        position: relative;
+        top: -400px;
+        left: 260px;
+    }
+    .bow {
+        height: 200px;
+        width: 104px;
+        background-color: black;
+        position: relative;
+        top: -799px;
+        left: 456px;
+    }
+
+    .gd{
+
+        margin-bottom: 40px;
+    }
+
+    .emg {
+        font-size: 21px;
+        font-size: 20px !important;
+    }
+
+    footer{
+
+        margin-top: 30px;
+    }
